@@ -8,3 +8,7 @@ qa/screenshots/
 qa/overview-*.jpg
 qa/*.png
 node_modules/
+backups/
+qa/drag-screenshots/
+qa/drag-overview-*.jpg
+qa/drag-pages-*.jpg

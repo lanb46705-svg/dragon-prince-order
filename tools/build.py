@@ -8,10 +8,10 @@ js="const fs=require('fs'),vm=require('vm');let x={};vm.runInNewContext(fs.readF
 content=json.loads(subprocess.check_output(['node','-e',js],cwd=ROOT))
 art={p.stem:data(p,'image/jpeg') for p in sorted((ROOT/'assets').glob('comic*.jpeg'))}
 s=read('src/template.html').replace('34个作答空','32个作答空')
-s=s.replace('/*__CSS__*/',read('src/style.css'))
+s=s.replace('/*__CSS__*/',read('src/style.css')+'\n'+read('src/drag.css'))
 s=s.replace('/*__ASSETS__*/','const ART='+json.dumps(art,separators=(',',':'))+';')
 s=s.replace('/*__DATA__*/',read('src/questions.js')+'\n'+read('src/content.js'))
-s=s.replace('/*__APP__*/',read('src/app.js'))
+s=s.replace('/*__APP__*/',read('src/app.js')+'\n'+read('src/drag.js')+'\nresize();render();')
 assert not re.search(r'/\*__(CSS|ASSETS|DATA|APP)__\*/',s)
 (ROOT/'docs').mkdir(exist_ok=True);(ROOT/'output').mkdir(exist_ok=True)
 for p in [ROOT/'docs/index.html',ROOT/'output/龙王子_顺序之门_互动完整版.html']:p.write_text(s)

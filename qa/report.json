@@ -2,12 +2,13 @@
   "status": "PASS",
   "math_checks": 60,
   "ui_checks": 331,
-  "total_checks": 391,
+  "drag_checks": 86,
+  "total_checks": 477,
   "scenes": 31,
   "question_groups": 18,
   "answer_fields": 32,
   "visual_review": "PASS",
-  "artifact_sha256": "0c25be2f7686e2d7933d66ee7e101b06481b048c1968cb82f267dacd121e3feb",
-  "scope": "课堂巩固之前；不含课堂巩固、入门测、能力提升；无配音。",
+  "artifact_sha256": "1ebe3583e5666e75cf8d4d2c52595f8e5087e42600f7896b5ea96617ce87577d",
+  "scope": "课堂巩固之前；不含小组积分、点名转盘、配音和PDF后续题。",
   "output": "docs/index.html"
 }

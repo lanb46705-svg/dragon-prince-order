@@ -1,0 +1,440 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "人物真实拖入椅子",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "未就座者不能挤掉已坐人物",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "已就座人物可交换座位",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖回待选区取回人物",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "person 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "完整坐法可记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "教具放大至整页",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Esc收起且保留坐法",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "两人真实捆为一组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "queue 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "整组拖到队尾且成员未丢失",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "组内交换保留整体",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖动整组之后条件成立",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "special 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "special 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "special 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "左右两端都能真实拖入",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "special 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "插空人物可以直接互换",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "base 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖动基础队伍不改变6对象7空",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "inner 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "女生组内部真实拖动换序",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "捆绑插空方案可记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "真实拖入冲突课仍会拒绝",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "取回并改选后可记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "排列区拖动顺序产生新方案",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pick 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "组合区拖动反序不重复计数",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "factor 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "factor 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "数字拖进连乘式可核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "factor 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "错误连乘仍可试错",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "撤销恢复上一拖入数字",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "new-cut 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "new-cut 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "可从收纳区拖入两块隔板",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cut 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖动已有隔板不复制",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cut 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "隔板拖回后合并两段",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "new-cut 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "new-cut 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "数位和拖板得到333",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digit 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digit 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digit 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digit 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digit 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "四位数拖动换序",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖成2奇2偶可记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "vertex 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "vertex 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "vertex 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖到共线点不能记录三角形",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "vertex 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "直接拖动原顶点标记修复三角形",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "原图十个点位置固定",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gem 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gem 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "龙晶拖进两个槽位产生发现",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gem 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gem 拖动结束清除悬浮教具",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "拖动反序计为新顺序",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "手机原生单指拖动成功",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "无脚本错误",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "无积分转盘配音模块",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "passed": 86,
+  "total": 86,
+  "errors": [],
+  "artifact_sha256": "1ebe3583e5666e75cf8d4d2c52595f8e5087e42600f7896b5ea96617ce87577d",
+  "screenshots": 13
+}
