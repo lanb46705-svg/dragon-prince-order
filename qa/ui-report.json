@@ -1,0 +1,1665 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "31个场景",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cover 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cover 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story0 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story0 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story1 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story1 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gems3 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gems3 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "notation 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "notation 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story2 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story2 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gems4 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gems4 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story3 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story3 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story4 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story4 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "binding 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "binding 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "insertion 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "insertion 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "combination 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "combination 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 题干完整可见",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 空答案提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 错答提示",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 正答逐空核对",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 点亮题组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 提示可打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 全部解析与小结",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 参考答案不伪报自主完成",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 重练清空作答",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "final 非空页面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "final 按钮未越过页脚",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "P的取数在总数上方",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "连乘自主填写正确",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "排列边界1取1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "组合边界1选1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "龙晶发现",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "龙晶重复不增加",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "龙晶反序为新排列",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "教师示例不计自主发现",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "三晶6种全部自主记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "四晶预测12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "真实拖放坐椅子",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "座位不可重占",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "座位方案记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "撤销记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "座位重置",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "不相邻被拒绝",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "实际捆绑为整体",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "真实拖动整体保留成员",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "组内交换有效方案",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "插空两端都可放",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "女生组内可改顺序",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "课程冲突不能记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "课程改错可记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "刀枪只选一个被拒绝",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "刀枪都不选有效",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "刀枪都选有效",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "组合反序去重",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "排列反序两种",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "主客场区分顺序",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "单循环不重复",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 所有分段穷举",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 所有分段穷举",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "挑战教师方案真实满足全部条件",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "挑战方案记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "原解析错空数明确更正960",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "共线点不能成三角形",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "不同线点可成三角形",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "奇偶两两数字排列",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "notation 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "binding 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "insertion 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 教师演示终点有内容",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "刷新保留18题组进度",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "目录实际打开",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "目录搜索",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "键盘下一页",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Home回封面",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "帮助有完整操作说明",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Esc关浮层",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "画笔实际绘制",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "画笔翻页保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "画笔清空",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "计时器真实倒计时",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "计时暂停",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "计时可设置3分钟",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "计时重置到设定时长",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "全屏按钮进入",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "记录清空可取消",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "确认清空本课记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "完全离线单文件启动",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "离线原插画可解码",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "离线交互真实可操作",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cover 手机无横向溢出",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 手机无横向溢出",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 手机无横向溢出",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 手机无横向溢出",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 手机无横向溢出",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cover 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story0 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story1 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gems3 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "notation 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story2 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gems4 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story3 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "story4 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "binding 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "insertion 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "combination 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "final 手机页面宽度约束",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "无浏览器脚本错误",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "passed": 331,
+  "total": 331,
+  "errors": [],
+  "artifact_sha256": "0c25be2f7686e2d7933d66ee7e101b06481b048c1968cb82f267dacd121e3feb",
+  "screenshots": 81
+}

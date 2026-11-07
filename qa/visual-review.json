@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "artifact_sha256": "0c25be2f7686e2d7933d66ee7e101b06481b048c1968cb82f267dacd121e3feb",
+  "reviewed_scenes": 31,
+  "reviewed_question_groups": 18,
+  "reviewed_answer_fields": 32,
+  "screenshots": 81,
+  "reviewed": [
+    "全部场景初始画面",
+    "全部原题展开解析的顶部和结尾",
+    "捆绑组、插空两端、课程限制、分段、数字和三角形互动状态",
+    "手机纵向布局及1366×768离线版"
+  ],
+  "findings_resolved": [
+    "深色页页眉对比度",
+    "七个空保持同一行",
+    "足球题题干完整呈现",
+    "10人选3人的互动与原题一致",
+    "手机窄屏巧克力组件宽度约束"
+  ],
+  "remaining_issues": []
+}

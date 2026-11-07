@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="龙王子顺序之门：完整排列与组合互动课件，18组原题、离线使用。"><title>龙王子：顺序之门 · 互动完整版</title><style>/*__CSS__*/</style></head>
+<body><div id="stage">
+<header><button id="brand" onclick="go(0)" aria-label="回到封面"><span class="brand-icon">✦</span> 龙晶王国 <span class="brand-sub">顺序之门</span></button><div id="chapterBadge"></div><div id="energy" aria-label="原题通关进度"></div></header>
+<main id="page"></main>
+<canvas id="boardCanvas" width="1600" height="900" aria-label="课堂画笔"></canvas>
+<div id="penBar" hidden><button data-color="#c14235">红笔</button><button data-color="#275985">蓝笔</button><button id="erase">清空本页</button><button onclick="setPen(false)">完成</button></div>
+<footer><div class="page-nav"><button id="prev" aria-label="上一页">←</button><span id="counter"></span><button id="next" aria-label="下一页">→</button></div><div class="tools"><button id="menuBtn">☷ 目录</button><button id="penBtn">画笔</button><button id="timerBtn">计时</button><button id="timer" aria-label="计时设置">08:00</button><button id="timerReset" aria-label="重置计时">↺</button><button id="fullBtn">全屏</button><button id="helpBtn" aria-label="使用帮助">？</button></div></footer>
+<div id="progress"></div>
+<aside id="menu" class="overlay" hidden><div class="overlay-head"><div><div class="eyebrow">冒险地图</div><h2>选择一扇门</h2></div><button class="minor" onclick="closeOverlays()">返回课件 ×</button></div><div class="menu-tools"><input id="menuSearch" placeholder="搜索题目、原题编号、知识点" aria-label="搜索目录"><button class="minor" id="unfinishedBtn">只看未通关原题</button><span id="menuSummary"></span></div><div id="menuGrid"></div></aside>
+<aside id="help" class="overlay" hidden><div class="overlay-head"><h2>冒险手册</h2><button class="minor" onclick="closeOverlays()">返回课件 ×</button></div><div class="help-grid"><article><h3>每一题都可以动手</h3><p>先在右侧尝试，再填写左侧答案。可以反复修改、核对、查看提示，最后按“下一步解析”展开讲解。</p><p>排队和座位：点击卡片，再点位置；也可以拖动。捆绑组可以整体移动，还能交换组内顺序。插空时点击两端或中间的空。</p></article><article><h3>离线课堂</h3><p>下载单文件 HTML 后双击打开，图片、题目、互动均可离线使用，无需安装。</p></article><article><h3>课堂工具</h3><p>← → 翻页，Home 回封面，Esc 关闭浮层或画笔。画笔按页保留。点击时间可设1～60分钟，↺ 重置计时。</p><p>答对后点亮一枚题目徽章；看过答案后可重新练习。记录只保存在当前浏览器。可在终章清空本课练习记录。</p></article><article><h3>题文与符号</h3><p>课堂巩固之前的18组、32个作答空按所给 PDF 收录。保留原题编号；原文 A 和 P 都表示排列，C 表示组合。右上是取几个，右下是总数。</p><p>PDF 文件名为“第9讲”，内页标题为“第12讲 排列”；本课以内容归档。课堂巩固及其后的题目未收录。历史赛事、原题措辞均保留，存在的题意或解析问题在相应题下注明。</p></article></div></aside>
+<div id="toast" role="status" aria-live="polite"></div></div>
+<script>/*__ASSETS__*/</script><script>/*__DATA__*/</script><script>/*__APP__*/</script></body></html>

@@ -1,0 +1,10 @@
+.DS_Store
+output/
+reference/page-*.png
+reference/overview.jpg
+reference/pdf-text.json
+qa/questions.json
+qa/screenshots/
+qa/overview-*.jpg
+qa/*.png
+node_modules/

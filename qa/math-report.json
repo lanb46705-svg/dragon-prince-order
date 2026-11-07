@@ -1,0 +1,308 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "题组18、作答空32",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "课堂巩固及后续未收录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 独立复算",
+      "pass": true,
+      "detail": "{'expected': [42, 30, 2154], 'actual': [42, 30, 2154]}"
+    },
+    {
+      "name": "p-ex1 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex1 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 独立复算",
+      "pass": true,
+      "detail": "{'expected': [20, 720, 4830], 'actual': [20, 720, 4830]}"
+    },
+    {
+      "name": "p-pr1 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-pr1 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 独立复算",
+      "pass": true,
+      "detail": "{'expected': [120], 'actual': [120]}"
+    },
+    {
+      "name": "p-ex2 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex2 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 独立复算",
+      "pass": true,
+      "detail": "{'expected': [720], 'actual': [720]}"
+    },
+    {
+      "name": "p-ex4 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex4 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa 独立复算",
+      "pass": true,
+      "detail": "{'expected': [48], 'actual': [48]}"
+    },
+    {
+      "name": "p-fuwa 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-fuwa PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 独立复算",
+      "pass": true,
+      "detail": "{'expected': [3628800], 'actual': [3628800]}"
+    },
+    {
+      "name": "p-ex6 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "p-ex6 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 独立复算",
+      "pass": true,
+      "detail": "{'expected': [15, 15, 7, 7, 56, 60], 'actual': [15, 15, 7, 7, 56, 60]}"
+    },
+    {
+      "name": "c-ex1 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex1 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 独立复算",
+      "pass": true,
+      "detail": "{'expected': [28, 70, 4950], 'actual': [28, 70, 4950]}"
+    },
+    {
+      "name": "c-pr1 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-pr1 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 独立复算",
+      "pass": true,
+      "detail": "{'expected': [120, 720], 'actual': [120, 720]}"
+    },
+    {
+      "name": "c-ex2 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "c-ex2 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football 独立复算",
+      "pass": true,
+      "detail": "{'expected': [30, 6], 'actual': [30, 6]}"
+    },
+    {
+      "name": "football 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "football PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses 独立复算",
+      "pass": true,
+      "detail": "{'expected': [56, 50], 'actual': [56, 50]}"
+    },
+    {
+      "name": "courses 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "courses PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons 独立复算",
+      "pass": true,
+      "detail": "{'expected': [26], 'actual': [26]}"
+    },
+    {
+      "name": "weapons 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "weapons PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate 独立复算",
+      "pass": true,
+      "detail": "{'expected': [512], 'actual': [512]}"
+    },
+    {
+      "name": "chocolate 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "chocolate PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum 独立复算",
+      "pass": true,
+      "detail": "{'expected': [256], 'actual': [256]}"
+    },
+    {
+      "name": "digitsum 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "digitsum PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 独立复算",
+      "pass": true,
+      "detail": "{'expected': [960], 'actual': [960]}"
+    },
+    {
+      "name": "challenge7 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge7 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 独立复算",
+      "pass": true,
+      "detail": "{'expected': [480], 'actual': [480]}"
+    },
+    {
+      "name": "challenge6 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "challenge6 PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines 独立复算",
+      "pass": true,
+      "detail": "{'expected': [96], 'actual': [96]}"
+    },
+    {
+      "name": "lines 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lines PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven 独立复算",
+      "pass": true,
+      "detail": "{'expected': [1440], 'actual': [1440]}"
+    },
+    {
+      "name": "oddeven 教学资料完整",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "oddeven PDF来源记录",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "单文件无外部脚本样式图片",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "无配音模块",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "保留5张原插画",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "P A C 竖排组件",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "passed": 60,
+  "total": 60,
+  "artifact_sha256": "0c25be2f7686e2d7933d66ee7e101b06481b048c1968cb82f267dacd121e3feb"
+}

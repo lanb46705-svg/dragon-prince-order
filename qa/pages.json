@@ -1,0 +1,157 @@
+[
+  {
+    "id": "cover",
+    "type": "cover",
+    "title": "龙王子：顺序之门"
+  },
+  {
+    "id": "story0",
+    "type": "comic",
+    "title": "序幕 · 王国的危机"
+  },
+  {
+    "id": "story1",
+    "type": "comic",
+    "title": "同样龙晶，不同魔法"
+  },
+  {
+    "id": "gems3",
+    "type": "gems",
+    "title": "三晶解锁游戏"
+  },
+  {
+    "id": "notation",
+    "type": "notation",
+    "title": "认识上下排布的 P"
+  },
+  {
+    "id": "story2",
+    "type": "comic",
+    "title": "第二道封印"
+  },
+  {
+    "id": "gems4",
+    "type": "gems",
+    "title": "四晶预测挑战"
+  },
+  {
+    "id": "p-ex1",
+    "type": "question",
+    "title": "排列的计算"
+  },
+  {
+    "id": "p-pr1",
+    "type": "question",
+    "title": "全排列也能算"
+  },
+  {
+    "id": "story3",
+    "type": "comic",
+    "title": "王宫里的六把椅子"
+  },
+  {
+    "id": "p-ex2",
+    "type": "question",
+    "title": "王宫的六把椅子"
+  },
+  {
+    "id": "story4",
+    "type": "comic",
+    "title": "不能分开的双龙"
+  },
+  {
+    "id": "binding",
+    "type": "method",
+    "title": "捆绑：外部与内部"
+  },
+  {
+    "id": "p-ex4",
+    "type": "question",
+    "title": "三名女生排在一起"
+  },
+  {
+    "id": "p-fuwa",
+    "type": "question",
+    "title": "不能分开的福娃"
+  },
+  {
+    "id": "insertion",
+    "type": "method",
+    "title": "插空：两端也有位置"
+  },
+  {
+    "id": "p-ex6",
+    "type": "question",
+    "title": "先捆绑，再插空"
+  },
+  {
+    "id": "combination",
+    "type": "combination",
+    "title": "顺序不重要的时候"
+  },
+  {
+    "id": "c-ex1",
+    "type": "question",
+    "title": "组合数的计算"
+  },
+  {
+    "id": "c-pr1",
+    "type": "question",
+    "title": "用较少的数来算"
+  },
+  {
+    "id": "c-ex2",
+    "type": "question",
+    "title": "选人，还是排队？"
+  },
+  {
+    "id": "football",
+    "type": "question",
+    "title": "主客场有区别吗？"
+  },
+  {
+    "id": "courses",
+    "type": "question",
+    "title": "冲突的两门课程"
+  },
+  {
+    "id": "weapons",
+    "type": "question",
+    "title": "刀与枪的约定"
+  },
+  {
+    "id": "chocolate",
+    "type": "question",
+    "title": "巧克力的分段魔法"
+  },
+  {
+    "id": "digitsum",
+    "type": "question",
+    "title": "数位和等于9"
+  },
+  {
+    "id": "challenge7",
+    "type": "question",
+    "title": "相邻与不相邻同时出现"
+  },
+  {
+    "id": "challenge6",
+    "type": "question",
+    "title": "甲乙之间至少一人"
+  },
+  {
+    "id": "lines",
+    "type": "question",
+    "title": "两条直线上的三角形"
+  },
+  {
+    "id": "oddeven",
+    "type": "question",
+    "title": "奇偶数字组队"
+  },
+  {
+    "id": "final",
+    "type": "final",
+    "title": "点亮顺序之门"
+  }
+]
